@@ -63,4 +63,5 @@ Community Engagement: Actively involved in validator communities, sharing knowle
 Focus on Decentralization: Dedicated to supporting projects that prioritize true decentralization and community governance.
 
 📫 Connect with Me
-I'm always open to discussing new validator opportunities, collaborating on infrastructure projects, or simply chatting about the latest advancements in blockchain technology. Feel free to reach out!
+I'm always open to discussing new validator opportunities, collaborating on infrastructure projects, or simply chatting about the latest advancements in blockchain technology. 
+Feel free to reach out!
